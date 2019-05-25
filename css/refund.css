@@ -182,8 +182,10 @@ header>a{
     justify-content: space-between;
     position: relative;
 }
-
-
+.stateL,.stateR{
+    font-size: 0.26rem;
+    color: #474747;
+}
 .inside{
     font-size: 0.26rem;
     color: #41b2fc;
