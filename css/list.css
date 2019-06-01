@@ -34,12 +34,13 @@ header{
     justify-content: space-between;
     line-height: 0.88rem;
     color: #4ebbfe;
+    background: #fbfeff;
     font-size: 0.38rem;
 }
 header> span{
     color: #4ebbfe;
 }
-header>a{
+header>a:first-child{
     color: #4ebbfe;
 }
 

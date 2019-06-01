@@ -36,6 +36,7 @@ header{
     display: flex;
     justify-content: space-between;
     line-height: 0.88rem;
+    background: #fbfeff;
     color: #4ebbfe;
     font-size: 0.38rem;
     box-shadow: 0 0.03rem 0.43rem 0 rgba(41, 167, 255, 0.13);
@@ -44,7 +45,7 @@ header> span{
     color: #4ebbfe;
     letter-spacing: 0.02rem;
 }
-header>a{
+header>a:first-child{
     color: #4ebbfe;
 }
 
